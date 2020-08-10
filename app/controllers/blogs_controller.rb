@@ -4,7 +4,7 @@ class BlogsController < ApplicationController
 
   def index
     @blogs = Blog
-    #test
+    #testtest
   end
 
   def new
